@@ -1,1 +1,48 @@
 /* your code here */
+*{
+	margin:0px;
+}
+.content{
+	padding:25px;
+	background-color:black;
+}
+.logo_name{
+   font-size:30px;
+	font-family:roboto;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.media-icons>img{
+	border-radius:50%;
+	padding:5px
+}
+.logo_name{
+	color:white;
+}
+.link-boxes{
+	color:white;
+	display:flex;
+	justify-content: space-evenly;
+	margin-top:35px
+}
+.p{
+	color:darkgrey;
+	padding:8px;
+}
+.bottom-details{
+	background-color:grey;
+	display:flex;
+	justify-content: space-between;
+	align-items:center;
+	padding:10px 25px ;
+}
+
+
+
+
+
+
+
